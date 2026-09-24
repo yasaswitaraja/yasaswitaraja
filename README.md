@@ -160,12 +160,6 @@ A modern translation interface designed to provide a simple and seamless user ex
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasaswitaraja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasaswitaraja&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 
